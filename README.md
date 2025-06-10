@@ -2,7 +2,7 @@
 A real-time conversational AI agent using LiveKit, Groq, ElevenLabs, Deepgram and Silero.
 
 
-# Voice-AI-Agent
+
 
 A real-time conversational AI agent built with LiveKit, leveraging powerful AI services for seamless voice interactions. This project demonstrates an agent capable of understanding spoken language, generating intelligent responses, and speaking them back in real-time. It also includes comprehensive metrics logging for performance analysis.
 
